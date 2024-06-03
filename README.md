@@ -1,8 +1,5 @@
 # Cars-Sales-Dashboard-
 
-Certainly! Here's an updated version of your LinkedIn post with the additional tools mentioned:
-
----
 
 🚗 **Excited to Share My Latest Power BI Project: Car Sales Dashboard!** 🚗
 
